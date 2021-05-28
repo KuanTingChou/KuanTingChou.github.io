@@ -6,7 +6,7 @@ header:
   image: "https://truth.bahamut.com.tw/s01/202105/02cdee647b7810a16fd094a35ff91cf5.JPG"
 ---
 
-My name is Kuan-Ting Chou. I work as a research assistant at Department of Physics, National Tsing-Hua University. Studying machine learning algorithm applications in fundamental researches.
+My name is Kuan-Ting Chou. I work as a research assistant at Department of Physics, National Tsing-Hua University. Studying machine learning algorithm applications in quantum many-body physics and neuroscience.
 
 ## Research Fields
 * Quantum Many-Body Physics
