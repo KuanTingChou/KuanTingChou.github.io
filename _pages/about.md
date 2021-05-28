@@ -1,8 +1,29 @@
 ---
+layout: single
 permalink: /about/
 title: "About"
+header:
+  image: "https://truth.bahamut.com.tw/s01/202105/02cdee647b7810a16fd094a35ff91cf5.JPG"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+My name is Kuan-Ting Chou. I work as a research assistant at Department of Physics, National Tsing-Hua University. Studying machine learning algorithm applications in fundamental researches.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+## Research Fields
+* Quantum Many-Body Physics
+* Biophysics
+* Machine Learning Algorithm in Fundamental Research
+
+## Education Background
+* 2018-2020, M.S. in Physics, National Tsing-Hua University
+* 2014-2018, B.S. in Physics, National Tsing-Hua University
+
+## Research Work Experience
+
+### 2018-2020, Master Program, Department of Physics, National Tsing-Hua University
+* Machine Learning Application in Quantum Many-Body Dynamics
+* Machine Learning Application in Neuroscience
+* Teaching assistant of Quantum Mechanics (I), (II)
+
+### 2014-2020, Bachelor Program, Department of Physics, National Tsing-Hua University
+* Synchronization of Coupled Metronomes
+* Josephson Junction Simulation of Neurons and its Network
