@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Kuan-Ting Chou"
   avatar : "https://truth.bahamut.com.tw/s01/202105/9ebfab1403724ebd9c5bb5c535e1b235.JPG"
-  bio    : "Work as a research asistant in National Tsing-Hua University now. Studying the applications of machine learning in fundamental researches."
+  bio    : "Work as a research asistant in National Tsing-Hua University now. Studying the applications of machine learning in Neuroscience and Quantum Many-Body Physics."
   links:
     - label: "Google Scholar"
       icon: "fab fa-google"
