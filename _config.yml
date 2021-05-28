@@ -82,8 +82,7 @@ footer:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/kuan-ting-chou-850033213/"
 header:
-  avatar: "https://truth.bahamut.com.tw/s01/202105/f3f95e6127c4df90bf1745f2077b838f.JPG"
-  text: <span style="color:white;">A prayer connot be born out of those who know nothing but joy.</span>
+  image: "https://truth.bahamut.com.tw/s01/202105/f3f95e6127c4df90bf1745f2077b838f.JPG"
 
 defaults:
   # _posts
